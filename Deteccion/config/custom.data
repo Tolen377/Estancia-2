@@ -1,0 +1,4 @@
+classes= 1
+train=..\Deteccion\data\custom\train.txt
+valid=..\Deteccion\data\custom\valid.txt
+names=..\Deteccion\data\custom\classes.names
